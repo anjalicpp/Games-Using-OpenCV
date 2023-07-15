@@ -1,0 +1,12 @@
+create a virtual environment using vscode
+by following steps:
+1>Create virtual Environment using:
+
+python -m venv urenvironment_name               : urenvironment_name=is your choice u can keep any
+.\ urenvironment_name\Scripts\activate
+
+2>Run the code untitled.ipynb :used jupyter lab here
+
+3>image window will open;let it scan your hands click 's' button to start and play the game
+
+Explaination of codes:
