@@ -23,6 +23,7 @@ imgDilation = cv2.dilate(imgCanny,kernel,iterations =1)
 
 #5.Erosion
 imgEroded = cv2.erode(imgDilation,kernel,iterations=1)
+
 cv2.imshow("Blur_Image",imgBlur)
 cv2.imshow("Gray_image",imgGray)
 cv2.imshow("Canny_Image",imgCanny)
